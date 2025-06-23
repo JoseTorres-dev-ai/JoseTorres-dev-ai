@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Jose Torres 👋
+### I'm a Software Engineer and AI Enthusiast!
+- 🔭 I’m currently working on various AI projects and enhancing my skills in software development.
+- 🌱 I’m currently learning about machine learning algorithms and their applications.
+- 👯 I’m looking to collaborate on open-source AI projects.
+- 🤔 I’m looking for help with advanced AI concepts and best practices.
 
+- 💬 Ask me about Python, JavaScript, and AI technologies.
+- 📫 How to reach me: [Gmail](mailto:josedanieltorres068@gmail.com)
+- 💬 LinkedIn: [Jose Torres](https://www.linkedin.com/in/jos%C3%A9-daniel-torres-d%C3%ADaz-9a7357214/)
 <!--
 **JoseTorres-dev-ai/JoseTorres-dev-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
